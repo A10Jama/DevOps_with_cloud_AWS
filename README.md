@@ -29,6 +29,15 @@ DevOps relies on continuous monitoring and measurement of key performance indica
 -
 DevOps encourages sharing of knowledge, ideas, and best practices across teams, which can help to reduce silos and promote a more collaborative work environment, ultimately leading to faster and more reliable delivery of software.
 
+# AWS 
+
+### What is Cloud computing ?
+Cloud computing means using the internet to access and use computing services like storage, databases, and software instead of using your own computer or servers. It's like renting computing resources from a third-party provider instead of owning them yourself. This approach is flexible, scalable, and cost-effective since you only pay for what you use and can easily scale up or down as needed.
+
+### Benefits of Cloud computing 
+Cloud computing has several benefits, including saving money by not having to buy and maintain expensive computing infrastructure, the ability to quickly and easily adjust computing resources as needed, accessing services from anywhere with an internet connection, high reliability and availability, and strong security measures. This approach is cost-effective, flexible, and reliable, letting companies focus on their core business functions without worrying about the underlying technology.
+
+
 
 
 
