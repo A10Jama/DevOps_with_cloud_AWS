@@ -26,6 +26,7 @@ DevOps emphasizes the use of automation, which can help to reduce errors and imp
 DevOps relies on continuous monitoring and measurement of key performance indicators (KPIs) to identify areas for improvement and ensure that software is delivered faster and more reliably.
 
 -Sharing
+-
 DevOps encourages sharing of knowledge, ideas, and best practices across teams, which can help to reduce silos and promote a more collaborative work environment, ultimately leading to faster and more reliable delivery of software.
 
 
