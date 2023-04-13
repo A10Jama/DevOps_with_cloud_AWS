@@ -26,45 +26,5 @@ After copying the file we use nano <filename>.pem to create a new .pem file wher
 
 After you have pasted the correct information, we ctrl x, then we press y to confirm our selection. After this we press Enter to finalize everything and to close the nano window. This will save the file withour pasted information within the .ssh folder.
 
-    1  exit
-    2  ls
-    3  whoami
-    4  pwd
-    5  uname
-    6  uname -a
-    7  ls
-    8  mkdir tech221
-    9  ls
-   10  cd tech221
-   11  pwd
-   12  cd ..
-   13  pwd
-   14  touch tech211.txt
-   15  ls
-   16  nano tech221.txt
-   17  cat tech221.txt
-   18  ls
-   19  touch tech221.txt
-   20  ls
-   21  cp tech221.txt tech221
-   22  cd tech221
-   23  ls
-   24  rm tech221.txt
-   25  ls
-   26  cd ..
-   27  ls
-   28  rm tech211.txt
-   29  cd
-   30  pwd
-   31  ls
-   32  mv tech221.txt tech221
-   33  pwd
-   34  ls
-   35  cd tech221
-   36  ls
-   37  pwd
-   38  cd ..
-   39  ls
-   40  ll
-   41  top
-   42  history
+    
+ 
