@@ -8,7 +8,17 @@ We now use these credentials to log into AWS as shown below.
 
 Using cd .ssh to access the directory, ls to see the contents of the directory, then cat <filename>.pem to read the file.
 
-Once recieving the .pem file, we will open it via Notepad to allow us to progress to the next step. image
+Once recieving the .pem file, we will open it via Notepad to allow us to progress to the next step.
+  
+ mv file_name_to_move(mateusz...) location_where_you_want_to_move_it (~/.ssh)
+
+cd .ssh access .ssh file
+
+nano tech221.pem open up notepad and paste KEY
+
+ctrl + s (save)   &   ctrl + x (close)
+
+cat tech221.pem to check changes in tech221.pem file
 
 After copying the file we use nano <filename>.pem to create a new .pem file where we will copy and paste from the notepad file to our secure .ssh directory. All the while deleting the copy in Downloads. We can see what it will look like once we enter the nano code, and copy and paste the pem file within the nano.
 
