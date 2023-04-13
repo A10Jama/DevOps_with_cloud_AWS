@@ -1,5 +1,7 @@
-image
-Once credentials are recieved, on GitBash move credentials to the .ssh directory.
+## Login in AWS
+
+
+![image](https://user-images.githubusercontent.com/129948378/231733802-fadc3a43-1758-4e4c-affd-be03aabc6910.png)Once credentials are recieved, on GitBash move credentials to the .ssh directory.
 We now use these credentials to log into AWS as shown below.
 <img width="561" alt="Screenshot 2023-04-13 at 11 35 05" src="https://user-images.githubusercontent.com/129948378/231733432-0c5196c6-b86a-4766-94df-bd4421442027.png">
 
