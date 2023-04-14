@@ -34,7 +34,7 @@ After copying the file we use nano <filename>.pem to create a new .pem file wher
 
 
 
-After you have pasted the correct information, we ctrl x, then we press y to confirm our selection. After this we press Enter to finalize everything and to close the nano window. This will save the file withour pasted information within the .ssh folder.
+After you have pasted the correct information, we ctrl x, then we press y to confirm our selection. After this we press Enter to finalise everything and to close the nano window. This will save the file withour pasted information within the .ssh folder.
 
 # How to set up an EC2 instance
 
