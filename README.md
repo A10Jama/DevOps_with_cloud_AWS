@@ -11,8 +11,10 @@ Once recieving the .pem file, we will open it via Notepad to allow us to progres
 ![image](pem.png)
 
 After copying the file we use `nano <filename>.pem` to create a new `.pem` file where we will copy and paste from the notepad file to our secure `.ssh` directory. All the while deleting the copy in Downloads.  We can see what it will look like once we enter the nano code, and copy and paste the pem file within the nano.
-![image](https://user-images.githubusercontent.com/129948378/231733802-fadc3a43-1758-4e4c-affd-be03aabc6910.png)Once credentials are recieved, on GitBash move credentials to the .ssh directory.
-We now use these credentials to log into AWS as shown below.
+![image](https://user-images.githubusercontent.com/129948378/231733802-fadc3a43-1758-4e4c-affd-be03aabc6910.png)Once 
+
+credentials are recieved, on GitBash move credentials to the .ssh directory.
+
 <img width="561" alt="Screenshot 2023-04-13 at 11 35 05" src="https://user-images.githubusercontent.com/129948378/231733432-0c5196c6-b86a-4766-94df-bd4421442027.png">
 
 
